@@ -1,3 +1,6 @@
+# SPDX-FileCopyrightText: 2022 YUki Sato s21C1056FY@s.chibakoudai.jp
+# SPDX-License-Identifier: BSD-3-Clause
+
 from setuptools import setup
 import os
 from glob import glob
