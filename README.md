@@ -4,11 +4,13 @@
 # トピック
 
 ## インストール方法
-下記のコマンドを入力しインストールが完了していることを確認する
+下記のコマンドを入力しインストールが完了していることを確認する  
+```
 $ git clone https://github.com/yukisato1481/mypkg.git
 $ cd mypkg
 $ ls
 LICENSE  README.md  launch  mypkg  package.xml  resource  setup.cfg  setup.py  test
+```
 ## 入出力例
 * 端末１に入力  
 ```
