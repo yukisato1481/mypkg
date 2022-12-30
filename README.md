@@ -1,18 +1,22 @@
 # mypkg
-ロボットシステム学の練習リポジトリ
+ロボットシステム学の練習リポジトリ 課題2
 
 # トピック
 
 ## インストール方法
-
+下記のコマンドを入力しインストールが完了していることを確認する
+$ git clone https://github.com/yukisato1481/mypkg.git
+$ cd mypkg
+$ ls
+LICENSE  README.md  launch  mypkg  package.xml  resource  setup.cfg  setup.py  test
 ## 入出力例
 * 端末１に入力  
 ```
-ros2 run mypkg listener
+$ ros2 run mypkg listener
 ```  
 * 端末２に入力  
 ```
-ros2 run mypkg talker
+$ ros2 run mypkg talker
 ```  
 * 端末１にて出力  
 ```
