@@ -29,7 +29,7 @@ ros2 run mypkg talker
 ``` 
 ## 環境
  * Ubuntu 20.04.5 LTS
- * python 3.8.10
+ * python 3.7～3.10
  * ROS2
 ## ライセンス
  * このソフトウェアパッケージは，3条項BSDライセンスの下，再頒布および使用が許可されます．
