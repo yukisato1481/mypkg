@@ -1,7 +1,7 @@
 # mypkg
  ロボットシステム学の練習リポジトリ 課題2
 
-# talker,listener
+# talker, listener
  countupトピックを通してtalkerからlistenerにメッセージを送る
 ## インストール方法
  下記のコマンドを入力しインストールが完了していることを確認する  
